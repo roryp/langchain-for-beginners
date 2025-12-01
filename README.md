@@ -32,7 +32,7 @@ This course takes you from zero to building robust AI applications:
 
 > **Teaching Approach:** This course uses an agent-first progression. You'll learn about tools, then agents, then combine them with document retrieval to build agentic RAG systems. This mirrors how modern production AI systems are built.
 
-Don't forget to [star (🌟) this repo](https://github.com/microsoft/langchain-for-beginners/stargazers) and [fork this repo](https://github.com/microsoft/langchain-for-beginners/fork) to run the code.
+Don't forget to [star (🌟)](https://github.com/microsoft/langchain-for-beginners/stargazers) and [fork this repo](https://github.com/microsoft/langchain-for-beginners/fork) to run the code.
 
 ---
 
