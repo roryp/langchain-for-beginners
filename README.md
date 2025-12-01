@@ -15,7 +15,7 @@ A course teaching everything you need to know to start building AI Agents with L
 
 ## 🦜🔗 Welcome
 
-Welcome to **LangChain for Beginners**! This course has 7 lessons covering the fundamentals of building with LangChain and Python. Each [lesson](#️-lessons) covers its own topic so start wherever you like! You should always start on the `README.md` page of a lesson. To get started right away you can start with [course-setup](/00-course-setup/), though you're encouraged to read the overview below.
+Welcome to **LangChain for Beginners**! This course has 7 lessons covering the fundamentals of building with LangChain and Python. Each [lesson](#️-lessons) covers its own topic so start wherever you like! You should always start on the `README.md` page of a lesson. To **get started** right away you can open [course-setup](/00-course-setup/), though you're encouraged to read the overview below first.
 
 ### What You'll Learn and Build
 
@@ -73,7 +73,7 @@ Before starting this course, you should be comfortable with:
 
 - [Python 3.10 or later](https://python.org/)
 - Github Account
-- - Code editor ([VS Code recommended](https://code.visualstudio.com/)) (if running the course locally.)
+- Code editor ([VS Code recommended](https://code.visualstudio.com/)) (if running the course locally.)
 
 ## 👫 Meet Other Learners, Get Your Questions Answered
 
